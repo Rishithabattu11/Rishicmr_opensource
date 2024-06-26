@@ -39,7 +39,6 @@ install the required packages listed in requirements.txt using pip:
 ```   python app.py   ```
 
 
-
 **FINAL OUTPUT OF THE PROJECT**
 
 
